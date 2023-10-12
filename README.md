@@ -1,6 +1,6 @@
 # Log-Sabha-Election-2019
 
-dashboard 
+dashboard-https://public.tableau.com/app/profile/vinoth.kumar5847/viz/VINOTH1/Dashboard1
 
 story public link-https://public.tableau.com/app/profile/vinoth.kumar5847/viz/MM_16952875794750/Story1?publish=yes
 
